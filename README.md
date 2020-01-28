@@ -46,7 +46,7 @@ ask the mobile phone to get the GPS data.
     
     6. Change the namespace which need in javascript to call the Android functions (app\src\main\res\string.xml)
     
-## Simple Web App for testing (Copy code to a file on your domain and point the "app_url" exact to this file.
+## Simple Web App for testing (Copy code to a file on your domain and point the "app_url" exact to this file.)
 
         <!DOCTYPE html>
         <html lang="de">
