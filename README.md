@@ -10,6 +10,8 @@ The app contain only a webView which use the complete screen and open a URL with
 redirect to the webView and it won´t switch to the normal browser on the mobile device. Also title bar will hide during 
 startup so the complete page will use to display your web app.
 
+For example you can use jQuery mobile to develop a web app. ( [https://demos.jquerymobile.com]() ) But there many other frameworks you can use to create your application.
+
 ## Environment
 
 **Project build with "androidStudio"**
@@ -17,7 +19,7 @@ startup so the complete page will use to display your web app.
 ![](image1.jpg)
 
 
-## Example
+## Preview
 
 ![](image2.png)
 
@@ -26,8 +28,11 @@ startup so the complete page will use to display your web app.
 ## Changes you have to do
 
     1. Change colors of your application (app\src\main\res\values.xml)
+    
     2. Change name / url of your application (app\src\main\res\string.xml)
+    
     3. Change logo of your applicaation (app\src\main\res\drawable-v24\ic_launcher_foreground.xml)
+    
     4. Change package path (app/src/main/AndroidManifest.xml)
         HowTo: https://stackoverflow.com/questions/16804093/rename-package-in-android-studio
         
