@@ -1,13 +1,15 @@
 # Android Web App Launcher
 
-This is only a test project but can use for simple applications.
+This is only a test project but can use for simple applications. The idea is, build a web page like a web application. But instead display the browser, convert it into a app.
+Remember that the user has no back- or forward-button within that application and can´t mark certain pages as favorit like in the normal browser. The web application should develop 
+with this in mind. Each page have to test if the user can reach all other pages.
 
-Project build with "androidStudio"
+**Project build with "androidStudio"**
 
 ![](image1.jpg)
 
 
-Example:
+**Example:**
 
 ![](image2.png)
 
