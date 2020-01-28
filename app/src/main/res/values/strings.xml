@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">Github</string>
-    <string name="app_url">https://github.com</string>
+    <string name="app_name">Android web app test</string>
+    <string name="app_url">http://www.reisacher-software.de/_androidtest/index.php</string>
+    <string name="app_useragent">android-web-app-test</string>
+    <string name="app_javascript_namespace">AndroidJavaScriptNamespace</string>
 </resources>
